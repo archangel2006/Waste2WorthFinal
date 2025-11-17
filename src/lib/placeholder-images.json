@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A diverse group of volunteers sorting through food donations in a bright, friendly community center.",
+      "imageUrl": "https://images.unsplash.com/photo-1758275557159-e83a257c52f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21tdW5pdHklMjBmb29kJTIwc2hhcmluZ3xlbnwwfHx8fDE3NjIwNjE4NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community food sharing"
+    },
+    {
+      "id": "avatar1",
+      "description": "Avatar for a user named Alex.",
+      "imageUrl": "https://images.unsplash.com/photo-1484863137850-59afcfe05386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MjA3MDcxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "avatar2",
+      "description": "Avatar for a user named Bella.",
+      "imageUrl": "https://images.unsplash.com/photo-1557053910-d9eadeed1c58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjAzMDE4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar3",
+      "description": "Avatar for a user named Charles.",
+      "imageUrl": "https://images.unsplash.com/photo-1612694790876-bec1383fbb40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8MTc2MjAxNTMwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "donation_bread",
+      "description": "A collection of freshly baked bread and pastries.",
+      "imageUrl": "https://images.unsplash.com/photo-1686431984279-861a8d22c5f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiYWtlZCUyMGJyZWFkfGVufDB8fHx8MTc2MjA5Nzk1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "baked bread"
+    },
+    {
+      "id": "donation_veg",
+      "description": "Crates of fresh, colorful vegetables.",
+      "imageUrl": "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcmVzaCUyMHZlZ2V0YWJsZXN8ZW58MHx8fHwxNzYyMDc3Njg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh vegetables"
+    },
+    {
+      "id": "donation_canned",
+      "description": "Assorted canned goods on a shelf.",
+      "imageUrl": "https://images.unsplash.com/photo-1615589484252-c70def71bb4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYW5uZWQlMjBmb29kfGVufDB8fHx8MTc2MjEwNDY4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "canned food"
+    },
+    {
+      "id": "donation_dairy_expired",
+      "description": "Cartons of milk and yogurt in a refrigerator.",
+      "imageUrl": "https://images.unsplash.com/photo-1576186726115-4d51596775d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZXhwaXJlZCUyMGRhaXJ5fGVufDB8fHx8MTc2MjEwNzUxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "expired dairy"
+    },
+    {
+      "id": "donation_fruit_bruised",
+      "description": "A box of bruised but still edible apples.",
+      "imageUrl": "https://images.unsplash.com/photo-1612406444780-ba78904a852a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxicnVpc2VkJTIwYXBwbGVzfGVufDB8fHx8MTc2MjEwNDY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bruised apples"
+    },
+    {
+      "id": "donation_bagels",
+      "description": "A bag of day-old bagels.",
+      "imageUrl": "https://images.unsplash.com/photo-1643690296628-a9e73e674520?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiYWdlbHMlMjBicmVha2Zhc3R8ZW58MHx8fHwxNzYyMTA0Njg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bagels breakfast"
+    },
+    {
+      "id": "donation_sandwiches",
+      "description": "A platter of assorted deli sandwiches.",
+      "imageUrl": "https://images.unsplash.com/photo-1714658367743-87400a376b1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhc3NvcnRlZCUyMHNhbmR3aWNoZXN8ZW58MHx8fHwxNzYyMTA0Njg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "assorted sandwiches"
+    },
+    {
+      "id": "donation_chicken_frozen",
+      "description": "Packages of frozen meat in a freezer.",
+      "imageUrl": "https://images.unsplash.com/photo-1635842011870-e306cdfa6259?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmcm96ZW4lMjBtZWF0fGVufDB8fHx8MTc2MjEwNDY4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "frozen meat"
+    },
+    {
+      "id": "donation_rice",
+      "description": "A large sack of bulk rice.",
+      "imageUrl": "https://images.unsplash.com/photo-1563249894-7aad9916d1ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiYWclMjByaWNlfGVufDB8fHx8MTc2MjEwNDY4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bag rice"
+    },
+    {
+      "id": "donation_veg_scraps",
+      "description": "A bag of organic vegetable scraps for compost.",
+      "imageUrl": "https://images.unsplash.com/photo-1760445529166-1184fc7bb808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2ZWdldGFibGUlMjBzY3JhcHN8ZW58MHx8fHwxNzYyMTA2NDgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable scraps"
+    },
+    {
+      "id": "login-background",
+      "description": "A vibrant community garden with people working together.",
+      "imageUrl": "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29tbXVuaXR5JTIwZ2FyZGVufGVufDB8fHx8MTc2MjA0MjEwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community garden"
+    }
+  ]
+}
